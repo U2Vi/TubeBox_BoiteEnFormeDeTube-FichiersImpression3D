@@ -7,7 +7,7 @@ Fichiers d'impression 3D d'une boite en forme de tube (Couvercle qui se vis) ré
 Utilisation comme :
 
 - Géocaches
-- - Range perles
+- Range perles
 - boite d’échantillonnage
 - Tube à essai (pouvant être étanche)
 - ...
